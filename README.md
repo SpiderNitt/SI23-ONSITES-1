@@ -105,11 +105,12 @@ We look forward to seeing your creative approach to the StudySpot Finder App ðŸ“
 <details>
 <summary>Password Safe </summary>
 Design a password safe to store users' passwords to other applications and subscriptions. The following features can be implemented: 
--  Login system to authorize users
-- Feature to add and update passwords
-- Feature to view the password of an application/service/subscription
-- Integrate the application with an API to check the strength of the password entered 
-- Implement a feature to share passwords securely 
+  
+  - Login system to authorize users
+  - Feature to add and update passwords
+  - Feature to view the password of an application/service/subscription
+  - Integrate the application with an API to check the strength of the password entered 
+  - Implement a feature to share passwords securely 
 
 </details>
 
@@ -119,6 +120,7 @@ Develop a portal where users can upload files.
 Uploaded files can be accessed and downloaded using a link associated with it.
 Access to files should be modifiable by the file owner.
 Admin should be able to set file access.
+  
   1. Public
   2. Private
   3. Share with certain groups of users

@@ -1,3 +1,7 @@
+# Spider Inductions '23 Onsites - Day 1
+**NOTE**
+
+We value your attempts. Try to do as much as possible. 
 # Application & API Pentesting
 <details>
 <summary>Brute Force</summary>
